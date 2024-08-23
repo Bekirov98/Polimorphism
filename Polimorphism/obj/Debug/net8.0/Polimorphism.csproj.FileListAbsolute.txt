@@ -1,0 +1,14 @@
+E:\VSpractics\Polimorphism\Polimorphism\obj\Debug\net8.0\Polimorphism.GeneratedMSBuildEditorConfig.editorconfig
+E:\VSpractics\Polimorphism\Polimorphism\obj\Debug\net8.0\Polimorphism.AssemblyInfoInputs.cache
+E:\VSpractics\Polimorphism\Polimorphism\obj\Debug\net8.0\Polimorphism.AssemblyInfo.cs
+E:\VSpractics\Polimorphism\Polimorphism\obj\Debug\net8.0\Polimorphism.csproj.CoreCompileInputs.cache
+E:\VSpractics\Polimorphism\Polimorphism\bin\Debug\net8.0\Polimorphism.exe
+E:\VSpractics\Polimorphism\Polimorphism\bin\Debug\net8.0\Polimorphism.deps.json
+E:\VSpractics\Polimorphism\Polimorphism\bin\Debug\net8.0\Polimorphism.runtimeconfig.json
+E:\VSpractics\Polimorphism\Polimorphism\bin\Debug\net8.0\Polimorphism.dll
+E:\VSpractics\Polimorphism\Polimorphism\bin\Debug\net8.0\Polimorphism.pdb
+E:\VSpractics\Polimorphism\Polimorphism\obj\Debug\net8.0\Polimorphism.dll
+E:\VSpractics\Polimorphism\Polimorphism\obj\Debug\net8.0\refint\Polimorphism.dll
+E:\VSpractics\Polimorphism\Polimorphism\obj\Debug\net8.0\Polimorphism.pdb
+E:\VSpractics\Polimorphism\Polimorphism\obj\Debug\net8.0\Polimorphism.genruntimeconfig.cache
+E:\VSpractics\Polimorphism\Polimorphism\obj\Debug\net8.0\ref\Polimorphism.dll
